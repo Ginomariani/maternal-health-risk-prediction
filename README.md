@@ -77,5 +77,5 @@ Python 3 (Google Colab) · pandas · numpy · matplotlib · seaborn · scikit-le
 
 ```bash
 pip install -r requirements.txt
-jupyter notebook notebook.ipynb
+jupyter notebook Modelos_predictivos_de_riesgo_materno.ipynb
 ```
